@@ -11,6 +11,7 @@
 
 Stop waiting for embedding progress bars. Most AI tools use Python/JS scripts that lag or crash as your library grows. **PapersGPT’s C++ core provides:**
 
+- **Benchmark**: On a Mac with an Intel i9, indexing 1,506 documents occupying 4.5GB of disk space took 141 seconds, while the PapersGPT agent process consumed 227MB of memory, with an average retrieval time of 15ms.
 - **Near-Instant Indexing**: Process 10,000+ documents in minutes, not hours.
 - **Hardware Efficiency**: Millisecond-level retrieval with minimal RAM usage, leaving your system resources free for other tasks.
 - **Zero-Cloud Dependency**: High-speed structural indexing occurs 100% on your machine. No external APIs, no cloud bottlenecks, even works in Airplane Mode.
