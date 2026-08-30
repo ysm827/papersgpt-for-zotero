@@ -122,7 +122,7 @@ PapersGPT is designed for professionals in **Research, Legal and Finance** who h
 
 ---
 
-## 👥 Join 10,000+ Researchers
+## 👥 Join 50,000+ Researchers
 
 **Unlock Professional Capabilities** at [papersgpt.com](https://www.papersgpt.com) →
 
